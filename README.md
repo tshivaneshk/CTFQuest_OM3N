@@ -1,2 +1,2 @@
 # CTFQuest_OM3N
-writeups for CTFQuest conducted by SECE
+Writeups for CTFQuest Round 2 conducted by SECE
